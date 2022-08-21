@@ -1,0 +1,7 @@
+.metals
+.vscode
+bin
+conf
+lib
+target
+LICENSE

@@ -1,0 +1,10 @@
+{
+  "simulation": "mightycampers.BookChecking",
+  "simulationId": "bookchecking-20220811162730101",
+  "start": 1660235252421,
+  "description": "20",
+  "scenarios": ["BookChecking"],
+  "assertions": [
+
+  ]
+}
