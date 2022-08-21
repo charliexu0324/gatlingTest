@@ -1,7 +1,7 @@
-.metals
-.vscode
-bin
-conf
-lib
-target
+.metals/
+.vscode/
+bin/
+conf/
+lib/
+target/
 LICENSE
